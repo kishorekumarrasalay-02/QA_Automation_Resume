@@ -69,5 +69,3 @@ To secure an entry-level QA / Software Tester role where I can apply my manual a
 
 Thank you for visiting my repository. I am open to fresher QA opportunities.
 
-*Thank you for visiting my repository. I am open to internship and fresher QA opportunities.*
-
