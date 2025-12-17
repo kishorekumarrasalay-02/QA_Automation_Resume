@@ -54,7 +54,6 @@ I am a motivated QA Engineer with a strong foundation in Manual Testing and Auto
 📄 **Download my resume:**
 
 
-
 ## Career Objective
 
 To secure an entry-level QA / Software Tester role where I can apply my manual and automation testing skills, learn from real-world projects, and grow as a quality-focused professional.
