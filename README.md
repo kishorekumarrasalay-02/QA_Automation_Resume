@@ -40,9 +40,11 @@ I am a motivated QA Engineer with a strong foundation in Automation Testing. I h
 * GitHub for repository management, code reviews, and project documentation
 * Hands-on experience with commit, push, pull, branch, and merge operations
 
-## Project
+---
 
-* **E-commerce Automation Testing (LambdaTest Playground)**
+## 📌 Project
+
+### 🛒E-commerce Automation Testing (LambdaTest Playground)
 
 * Automated functional test scenarios for a demo e-commerce web application covering critical user workflows
 * Designed and implemented a Page Object Model (POM) based hybrid automation framework using Python, Selenium WebDriver, and Pytest
@@ -52,18 +54,20 @@ I am a motivated QA Engineer with a strong foundation in Automation Testing. I h
 * Integrated exception handling to ensure stable test execution and reliable reporting
 * Executed automated test suites across multiple test cases to validate application functionality
 
-## Career Objective
+## 🎯 Career Objective
 
 To secure an entry-level QA / Software Tester role where I can apply my automation testing skills, learn from real-world projects, and grow as a quality-focused professional.
 
-## Contact
+## 📬 Contact Details
 
-* 📞 Mobile: 91 94909 46159
-* 📧 Email: kishorekummarrasalay05@gmail.com
-* 🔗 LinkedIn: https://www.linkedin.com/in/kishorekumarrasalay/
-* 💻 GitHub: https://github.com/kishorekumarrasalay-02
+📞 Mobile: +91 94909 46159
+
+📧 Email: kishorekummarrasalay05@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kishorekumarrasalay/
+
+💻 GitHub: https://github.com/kishorekumarrasalay-02
 
 ---
 
 Thank you for visiting my repository. I am open to fresher QA Automation Engineer opportunities.
-
