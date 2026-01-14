@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a motivated QA Engineer with a strong foundation in Manual Testing and Automation Testing. I have hands-on experience testing web applications and building automation frameworks using Python, Selenium WebDriver, and Pytest. I am eager to contribute to software quality and continuously improve my testing skills.
+I am a motivated QA Engineer with a strong foundation in Automation Testing. I have hands-on experience testing web applications and building automation frameworks using Python, Selenium WebDriver, and Pytest. I am eager to contribute to software quality and continuously improve my testing skills.
 
 ## Skills
 
@@ -48,14 +48,9 @@ I am a motivated QA Engineer with a strong foundation in Manual Testing and Auto
   * Implemented POM-based hybrid framework using Pytest
   * Generated HTML reports and maintained execution logs
 
-## Resume
-
-📄 **Download my resume:**
-
-
 ## Career Objective
 
-To secure an entry-level QA / Software Tester role where I can apply my manual and automation testing skills, learn from real-world projects, and grow as a quality-focused professional.
+To secure an entry-level QA / Software Tester role where I can apply my automation testing skills, learn from real-world projects, and grow as a quality-focused professional.
 
 ## Contact
 
@@ -66,5 +61,5 @@ To secure an entry-level QA / Software Tester role where I can apply my manual a
 
 ---
 
-Thank you for visiting my repository. I am open to fresher QA opportunities.
+Thank you for visiting my repository. I am open to fresher QA Automation opportunities.
 
