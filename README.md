@@ -44,14 +44,13 @@ I am a motivated QA Engineer with a strong foundation in Automation Testing. I h
 
 * **E-commerce Automation Testing (LambdaTest Playground)**
 
-  * Automated functional test scenarios for a demo e-commerce web application covering critical user workflows
-  * Designed and implemented a Page Object Model (POM) based hybrid automation framework using Python, Selenium WebDriver, and Pytest
-  * Implemented automatic screenshot capture for failed test cases to support effective defect analysis
-  * Generated detailed HTML test execution reports with pass/fail status and error logs
-  * Maintained structured execution logs to track test results and identify failures efficiently
-  * Integrated exception handling to ensure stable test execution and reliable reporting
-  * Executed automated test suites across multiple test cases to validate application functionality
-
+* Automated functional test scenarios for a demo e-commerce web application covering critical user workflows
+* Designed and implemented a Page Object Model (POM) based hybrid automation framework using Python, Selenium WebDriver, and Pytest
+* Implemented automatic screenshot capture for failed test cases to support effective defect analysis
+* Generated detailed HTML test execution reports with pass/fail status and error logs
+* Maintained structured execution logs to track test results and identify failures efficiently
+* Integrated exception handling to ensure stable test execution and reliable reporting
+* Executed automated test suites across multiple test cases to validate application functionality
 
 ## Career Objective
 
