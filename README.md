@@ -1,8 +1,10 @@
 # 👨‍💻 Kishore Kumar R - QA Automation Engineer
 
-[LinkedIn](https://linkedin.com/in/kishorekumarrasalay) | [Email](mailto:kishorekumarrasalay05@gmail.com) | [GitHub](https://github.com/kishorekumarrasalay-02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kishorekumarrasalay)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kishorekumarrasalay05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/kishorekumarrasalay-02)
 
-**QA Automation Engineer | Selenium WebDriver | Python & PyTest | Page Object Model | Hybrid Framework | JIRA**
+> **QA Automation Engineer | Selenium WebDriver | Python & PyTest | Page Object Model | Hybrid Framework | JIRA**
 
 ---
 
