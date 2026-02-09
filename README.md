@@ -147,7 +147,7 @@ I am actively seeking opportunities as a **QA Automation Engineer** where I can 
 
 <div align="center">
 
-**⭐ If you find this project useful, please consider giving it a star! ⭐**
+**⭐ If you find this repository useful, please consider giving it a star! ⭐**
 
 </div>
 
