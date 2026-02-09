@@ -132,8 +132,6 @@ To secure an entry-level **QA Automation Engineer** role where I can apply my au
 
 ## 📬 Contact Me
 
----
-
 📞 **Mobile:** +91-9490946159  
 📧 **Email:** kishorekumarrasalay05@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://linkedin.com/in/kishorekumarrasalay)  
