@@ -145,5 +145,9 @@ I am actively seeking opportunities as a **QA Automation Engineer** where I can 
 
 ---
 
-**⭐ If you find this repository helpful, please consider giving it a star!**
+<div align="center">
+
+**⭐ If you find this project useful, please consider giving it a star! ⭐**
+
+</div>
 
